@@ -1,6 +1,6 @@
 # Android-Data-Binding-Retrofit-RxJava-Common-Notes
 This project shows how to use Android Data Binding in recycler view with Retrofit and RxJava.
-Libraries used in this project
+# Libraries used in this project
 - Androdi Data Binding
 - Retrofit
 - RxJava
