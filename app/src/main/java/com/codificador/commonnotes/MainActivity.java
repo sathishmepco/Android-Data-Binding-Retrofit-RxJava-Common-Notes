@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void updateJSON(List<CommonNote> noteList){
         APIClient.getApiClient().updateAllNotes(noteList);
-        /*subscription = APIClient.getApiClient().updateAllNotes(noteList)
+        subscription = APIClient.getApiClient().updateAllNotes(noteList)
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new Observer<List<CommonNote>>() {
@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
                     public void onNext(List<CommonNote> notes) {
 
                     }
-                });*/
+                });
     }
 
     @Override
