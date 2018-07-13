@@ -6,7 +6,7 @@ This project shows how to use Android Data Binding in recycler view with Retrofi
 - RxJava
 - RecyclerView
 
-# Download the sample Apk
-<a href="https://github.com/sathishmepco/Android-Data-Binding-Retrofit-RxJava-Common-Notes/blob/master/app/release/Common%20Notes.apk"  download> Click here to download the apk file </a>
+# Download the Apk
+<a href="/app/release/Common%20Notes.apk?raw=true"  download> Click here to download the apk file </a>
 
 <img src="/Common Notes.png"/>
